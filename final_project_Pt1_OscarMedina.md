@@ -15,7 +15,7 @@ For my story, I will focus on Larimer.
 
 ##### Outline
 1. Title
- 2. Subtitle
+  2. Subtitle
 3. Hero image of Larimer
 4. Context to demonstrate how Larimer is underserved
 ##### Potential visualizations:
