@@ -18,7 +18,7 @@ For my story, I will focus on Larimer.
 2. Subtitle
 3. Hero image of Larimer
 4. Context to demonstrate how Larimer is underserved
-Potential visualizations:
+> Potential visualizations:
   * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
   * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
   * Visualization to show much unmet demand there is in Larimer vs a neighboring comparison district
