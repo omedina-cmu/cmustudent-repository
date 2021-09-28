@@ -6,5 +6,24 @@ For my summer internship, I worked at the Urban Redevelopment Authority (URA), t
 
 There are over 50 unique main-street businesses districts in Pittsburgh. The URA releases the business district profiles to inform the public and prospective business owners about market conditions in each neighborhood. They are fact sheets meant to give people a snapshot view of the business landscape. 
 
-##### Screnshots of the Market District Profiles
+The profiles are presented matter-of-factly. But, they are the perfect source material for a story I want to tell: there are opportunities for folks to start businesses in historically underserved communities. 
+
+For my story, I will focus on Larimer.
+
+##### Screnshot of page 1 of its market district profile
 ![image](https://user-images.githubusercontent.com/78521868/135010788-7fde0235-1987-4b07-b9cd-ebc1aea8ce16.png)
+
+##### Outline
+1. Title
+Subtitle
+Hero image of Larimer
+Context to demonstrate how Larimer is underserved
+Potential visualizations
+Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
+Visualization to show much unmet demand there is in Larimer vs a neighboring comparison district
+The opportunities as measured by sectors in Larimer where demand outpaces supply
+Why should a business owner invest in Pittsburgh?
+URA is all in Larimer
+Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
+CALL TO ACTION
+Contact a loan officer at the URA and start your business!
