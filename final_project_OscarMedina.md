@@ -13,7 +13,7 @@ For my story, I will focus on Larimer.
 ##### Screnshot of page 1 of its market district profile
 ![image](https://user-images.githubusercontent.com/78521868/135010788-7fde0235-1987-4b07-b9cd-ebc1aea8ce16.png)
 
-##### Outline
+#### Outline
 1. Title
 2. Subtitle
 3. Hero image of Larimer
@@ -28,3 +28,14 @@ For my story, I will focus on Larimer.
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
 7. CALL TO ACTION
   * Contact a loan officer at the URA and start your business!
+
+#### Sketches
+
+![PXL_20210928_020229673](https://user-images.githubusercontent.com/78521868/135014370-dae4ab41-8e7c-4fac-b124-4f82ff82d3a2.jpg)
+
+![PXL_20210928_020227482](https://user-images.githubusercontent.com/78521868/135014386-045a18a3-d28c-4f13-96dc-8262d9b725d8.jpg)
+
+![PXL_20210928_020216410](https://user-images.githubusercontent.com/78521868/135014400-a70f8d7d-638d-441d-b862-b0b5b4a13731.jpg)
+
+![PXL_20210928_020211030](https://user-images.githubusercontent.com/78521868/135014436-cf6180c3-2f29-469e-9169-e61486595166.jpg)
+
