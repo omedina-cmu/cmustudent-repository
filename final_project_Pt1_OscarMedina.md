@@ -15,7 +15,7 @@ For my story, I will focus on Larimer.
 
 ##### Outline
 1. Title
-2. Subtitle
+ 2. Subtitle
 3. Hero image of Larimer
 4. Context to demonstrate how Larimer is underserved
 ##### Potential visualizations:
@@ -27,4 +27,4 @@ For my story, I will focus on Larimer.
   * URA is all in Larimer
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
 7. CALL TO ACTION
-  *Contact a loan officer at the URA and start your business!
+  * Contact a loan officer at the URA and start your business!
